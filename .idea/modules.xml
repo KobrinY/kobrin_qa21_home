@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/kobrin_qa21_home.iml" filepath="$PROJECT_DIR$/.idea/kobrin_qa21_home.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran.first-selenium-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telran.first-selenium-project.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran.first-selenium-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telran.first-selenium-project.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki_web_testing.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki_web_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki_web_testing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki_web_testing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki_web_testing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki_web_testing.test.iml" />
     </modules>
   </component>
 </project>

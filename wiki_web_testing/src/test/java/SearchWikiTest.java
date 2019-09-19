@@ -7,9 +7,12 @@ public class SearchWikiTest {
     WebDriver driver;
 
 @Test
-public void OpenWiki(){
+public void OpenWiki() throws InterruptedException {
     driver = new ChromeDriver();
     driver.get("https://www.wikipedia.org");
     driver.findElement(By.name("search")).click();
+
+    Thread.sleep(10000);
+    driver.quit();
     }
 }
